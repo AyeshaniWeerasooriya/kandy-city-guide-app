@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "678698554369",
+    "project_id": "lms-mobile-project-35b52",
+    "storage_bucket": "lms-mobile-project-35b52.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678698554369:android:f4ea570a9ef249b2601c00",
+        "android_client_info": {
+          "package_name": "com.anonymous.kandycityguidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678698554369-nc5qhd4me7ppi31e6oo5nki0c7hdnvu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.kandycityguidapp",
+            "certificate_hash": "3018032518718e7717695ef9f616ec010c43a5df"
+          }
+        },
+        {
+          "client_id": "678698554369-0o04fp6guhmi7m5mldl596420f8eeue0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfu9pwDonVtcu77lbSuj32eYaikcrct9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678698554369-0o04fp6guhmi7m5mldl596420f8eeue0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678698554369-fet933fbjjpmbaf3tu9hb0jb4dujf10i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anonymous.kandycityguidapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
